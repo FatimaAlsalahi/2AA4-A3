@@ -1,0 +1,272 @@
+[33mcommit 8944ca647bc2e3ffcaeae289be1cee898574c108[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Fatima Alsalahi <alsalahf@mcmaster.ca>
+Date:   Fri Apr 4 14:40:58 2025 -0400
+
+    close #1 refactored and added test cases
+
+[33mcommit 9413a4cd641c23d573d79f61460ffc5ea7988ffa[m
+Author: Leyla Kutlu <kutlul1@mcmaster.ca>
+Date:   Mon Mar 24 22:05:40 2025 -0400
+
+    Reverted pom.xml to version 4305cdd
+
+[33mcommit c2d93db69468b00109758e7fe893e4ade75b53a6[m
+Author: Leyla Kutlu <kutlul1@mcmaster.ca>
+Date:   Mon Mar 24 22:01:02 2025 -0400
+
+    delete unnecessary unit tests
+
+[33mcommit c480df0fba615f7726e7d97d1b76a0a08240fa6a[m
+Merge: abf30a4 2fb7c84
+Author: Leyla Kutlu <kutlul1@mcmaster.ca>
+Date:   Mon Mar 24 21:59:35 2025 -0400
+
+    Fixed Unit test issues
+
+[33mcommit abf30a4cc4585b78d5b510c2e4378022621f9189[m
+Author: Leyla Kutlu <kutlul1@mcmaster.ca>
+Date:   Mon Mar 24 21:54:39 2025 -0400
+
+    Fixed unit test issues
+
+[33mcommit 2fb7c8433644183dd47f80b08ed8f32c7bb4267f[m
+Author: Rachel Nyonje <rachelnyonje@gmail.com>
+Date:   Mon Mar 24 21:41:07 2025 -0400
+
+    Revert test case
+
+[33mcommit 1ca37bbff4cc7d4b2375cabc6ae2f82e09386868[m
+Author: Rachel Nyonje <rachelnyonje@gmail.com>
+Date:   Mon Mar 24 21:38:16 2025 -0400
+
+    Removed some logging
+
+[33mcommit 76f07e7b81f591dbef990fd80bd88f4b08f3c2bb[m
+Author: Rachel Nyonje <rachelnyonje@gmail.com>
+Date:   Mon Mar 24 21:33:03 2025 -0400
+
+    Refactoring.
+
+[33mcommit d5e9b97badce41b947859f051779bd721c577d89[m
+Author: Fatima Alsalahi <alsalahf@mcmaster.ca>
+Date:   Mon Mar 24 13:53:57 2025 -0400
+
+    Fixed PhaseDecisionMakerTest again
+
+[33mcommit d14e6494bb434e6bd68307094e7792295f14f770[m
+Author: Fatima Alsalahi <alsalahf@mcmaster.ca>
+Date:   Mon Mar 24 13:51:20 2025 -0400
+
+    Fixed PhaseDecisionMakerTest
+
+[33mcommit 339d639dd36ce9265db8589a194aa8663938b6d0[m
+Author: Leyla Kutlu <kutlul1@mcmaster.ca>
+Date:   Mon Mar 24 13:42:43 2025 -0400
+
+    Added unit tests. Closes #18
+
+[33mcommit 23b5f0c46184b0d5011860eb9193f9b4823026bb[m
+Author: Fatima Alsalahi <alsalahf@mcmaster.ca>
+Date:   Mon Mar 24 11:12:58 2025 -0400
+
+    close #17 test cases for Explorer and PhaseDecisionMaker
+
+[33mcommit f16383c88f474af5e5bd96afbe479b0ae792c2ed[m
+Author: Fatima Alsalahi <alsalahf@mcmaster.ca>
+Date:   Mon Mar 24 10:43:03 2025 -0400
+
+    close #16 Test cases for EmergencySite
+
+[33mcommit 3074edb3fb4cc9916b4984bfdc3ca4ea9f01e064[m
+Author: Fatima Alsalahi <alsalahf@mcmaster.ca>
+Date:   Mon Mar 24 10:33:45 2025 -0400
+
+    close #15 Drone Test Cases
+
+[33mcommit 6e284617e715c06087b6fea335c9ab6037a25cf2[m
+Author: Rachel Nyonje <rachelnyonje@gmail.com>
+Date:   Mon Mar 24 10:16:00 2025 -0400
+
+    Added coordinate system. Closes #11
+
+[33mcommit 497b1ce1873348457cdc782aafe684c655d28777[m
+Author: Rachel Nyonje <rachelnyonje@gmail.com>
+Date:   Sun Mar 23 17:29:00 2025 -0400
+
+    Added Factory method to phase decision making
+
+[33mcommit 91d16766e7acc0074706a8e2abae3e4d4f2e8652[m
+Author: Rachel Nyonje <rachelnyonje@gmail.com>
+Date:   Sun Mar 23 12:33:28 2025 -0400
+
+    Removed static methods.
+
+[33mcommit 3ed35c6d26ba6610c06407eb9f078ca5864adf7d[m
+Author: Rachel Nyonje <rachelnyonje@gmail.com>
+Date:   Sun Mar 23 12:27:28 2025 -0400
+
+    Codebase refactoring.
+
+[33mcommit 63c6a44e20503f9950cc535b842309eb5008e9df[m
+Author: Rachel Nyonje <rachelnyonje@gmail.com>
+Date:   Sat Mar 22 22:35:27 2025 -0400
+
+    Class renaming.
+
+[33mcommit c7993a147b52200abf6acd4a2db4043d4c3e2f47[m
+Author: Leyla Kutlu <kutlul1@mcmaster.ca>
+Date:   Sat Mar 22 22:31:45 2025 -0400
+
+    Added battery level check
+
+[33mcommit 20eef21a5d979e29dfd14aa688b28f8a4310ef39[m
+Author: Leyla Kutlu <kutlul1@mcmaster.ca>
+Date:   Sat Mar 22 13:26:51 2025 -0400
+
+    Implemented Strategy design pattern for PhaseDecisionMaker.
+
+[33mcommit 99e466afe277fbf2abe026858624fff637f1571e[m
+Author: Rachel Nyonje <rachelnyonje@gmail.com>
+Date:   Fri Mar 21 16:36:11 2025 -0400
+
+    Removed need for Decision and Response instances in Explorer.
+
+[33mcommit c0fc30366c4351eb7127f5e99469a3ec73b85657[m
+Author: Rachel Nyonje <rachelnyonje@gmail.com>
+Date:   Thu Mar 20 21:27:36 2025 -0400
+
+    Added second phase movement. Closes #9
+
+[33mcommit bedf44de850916040e93b0b7e19ebfd52a3fe882[m
+Author: Rachel Nyonje <rachelnyonje@gmail.com>
+Date:   Thu Mar 20 19:13:01 2025 -0400
+
+    Renamed class.
+
+[33mcommit ccfd2e1e368c527984c1687b3081edc5545da0b4[m
+Author: Rachel Nyonje <rachelnyonje@gmail.com>
+Date:   Thu Mar 20 19:10:06 2025 -0400
+
+    Revert "Renamed class"
+    
+    This reverts commit d4ba35feaebf2075ca3eca14243916814d982ffc.
+
+[33mcommit d4ba35feaebf2075ca3eca14243916814d982ffc[m
+Author: Rachel Nyonje <rachelnyonje@gmail.com>
+Date:   Thu Mar 20 19:08:12 2025 -0400
+
+    Renamed class
+
+[33mcommit d19a3d63fbf1ee911710702ffa387adbdb0f9451[m
+Author: Rachel Nyonje <rachelnyonje@gmail.com>
+Date:   Thu Mar 20 19:04:15 2025 -0400
+
+    Closes #14
+
+[33mcommit 7557b75fe7375306cbdb42afcf69e324cacb5c6c[m
+Author: Leyla Kutlu <kutlul1@mcmaster.ca>
+Date:   Wed Mar 19 15:22:55 2025 -0400
+
+    Added decision handling methods into DecisionHandler and Battery.
+
+[33mcommit e49b90784a8a27d4bdc2b70f7cb331e93e1cd3fd[m
+Author: Rachel Nyonje <rachelnyonje@gmail.com>
+Date:   Sun Mar 16 22:29:25 2025 -0400
+
+    Added phase one decision-making. Closes #8
+
+[33mcommit 5c332acf72773e827c1efaecb15ec3fdc7ce0a48[m
+Author: Fatima Alsalahi <alsalahf@mcmaster.ca>
+Date:   Sun Mar 16 14:24:10 2025 -0400
+
+    close #13 Created Creeks Class
+
+[33mcommit b2bccb0254240f0ab1c8625227dc7f81368f7626[m
+Author: Fatima Alsalahi <alsalahf@mcmaster.ca>
+Date:   Sun Mar 16 14:23:32 2025 -0400
+
+    close #12 Created Creek Class
+
+[33mcommit 3f5a9bbf1361db5fb0582c9d0f84494b79630fe7[m
+Author: Rachel Nyonje <rachelnyonje@gmail.com>
+Date:   Fri Mar 14 15:00:01 2025 -0400
+
+    Added extra response parsing
+
+[33mcommit 244e2ae03b51617dff0cb09405b46a627b632a5e[m
+Author: Leyla Kutlu <kutlul1@mcmaster.ca>
+Date:   Fri Mar 14 14:02:24 2025 -0400
+
+    Added Direction enum.
+
+[33mcommit 842448ba804e12c5547069e3f979291ddd3097e4[m
+Author: Rachel Nyonje <rachelnyonje@gmail.com>
+Date:   Thu Mar 13 22:42:43 2025 -0400
+
+    Removed primitives related to actions
+
+[33mcommit 485cae57e79731dc26f00b79a1b36b7ce209ea68[m
+Author: Rachel Nyonje <rachelnyonje@gmail.com>
+Date:   Thu Mar 13 22:33:12 2025 -0400
+
+    Added Action enum.
+
+[33mcommit c66edd6a563be9d4909906af3460426d6374f9c1[m
+Author: Rachel Nyonje <rachelnyonje@gmail.com>
+Date:   Thu Mar 13 02:02:56 2025 -0400
+
+    Semantic fixes.
+
+[33mcommit 5b646ef111e1d130393b40ab320bca4b4343f03b[m
+Author: Rachel Nyonje <rachelnyonje@gmail.com>
+Date:   Tue Mar 11 22:01:13 2025 -0400
+
+    Fixed decision representation
+
+[33mcommit 810effc4bf275210ca8a598601ad50f4e4d17394[m
+Author: Rachel Nyonje <rachelnyonje@gmail.com>
+Date:   Tue Mar 11 21:45:09 2025 -0400
+
+    Added Decision methods into DecisionMaker and Explorer.
+
+[33mcommit 06bd05d9810bd669191aad19b0275732cadf7459[m
+Author: Leyla Kutlu <kutlul1@mcmaster.ca>
+Date:   Fri Mar 7 20:09:48 2025 -0500
+
+    DecisionMaker Class. Close #2 #7
+
+[33mcommit 9b8d23a080a219badeb66a4527b4414a0d06a452[m
+Author: Fatima Alsalahi <alsalahf@mcmaster.ca>
+Date:   Fri Mar 7 13:54:26 2025 -0500
+
+    close #6 Modified Explorer
+
+[33mcommit 4292c5becccdefa37d5a3ce004924eb32174861b[m
+Author: Fatima Alsalahi <alsalahf@mcmaster.ca>
+Date:   Fri Mar 7 13:37:11 2025 -0500
+
+    close #5 Decision Class
+
+[33mcommit 64bd48e843b11fd9c10703224b7b04659a32ffcd[m
+Author: Fatima Alsalahi <alsalahf@mcmaster.ca>
+Date:   Fri Mar 7 13:14:51 2025 -0500
+
+    close #4 Drone Class
+
+[33mcommit 011bde96811aef488d8d958519b34487c1133b0b[m
+Author: Rachel Nyonje <rachelnyonje@gmail.com>
+Date:   Sun Mar 2 08:02:07 2025 -0500
+
+    Added Response parsing. Closes #3
+
+[33mcommit 047d126df5d82b29fc29ef69f4b9c59021a2bbc1[m
+Author: Rachel Nyonje <rachelnyonje@gmail.com>
+Date:   Tue Feb 25 14:13:41 2025 -0500
+
+    MVP. Close #1
+
+[33mcommit 4305cddd539ebfb52d7cd08c39c2ae61ed785b2f[m
+Author: rjema <79913700+rjema@users.noreply.github.com>
+Date:   Fri Feb 7 10:59:28 2025 -0500
+
+    Initial commit

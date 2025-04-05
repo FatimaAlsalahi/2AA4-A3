@@ -41,7 +41,35 @@ public class Drone implements Observer{
         this.x = x;
         this.y = y;
     }
+    
+    public void fly() {
+        // Implement the logic to make the drone fly
+        System.out.println("Drone is flying.");
+    }
 
+    public void stop() {
+        // Implement the logic to stop the drone
+        System.out.println("Drone has stopped.");
+    }
 
+    public void scan() {
+        // Implement the logic for scanning
+        System.out.println("Drone is scanning the surroundings.");
+    }
+
+    public void echo(Direction direction) {
+        // Implement the logic for echoing in a specific direction
+        System.out.println("Drone is echoing in direction: " + direction);
+    }
+
+    public void heading(Direction direction) {
+        // Implement the logic for changing heading
+        System.out.println("Drone heading changed to: " + direction);
+    }
+
+    public void setBattery(int batteryLevel) {
+        // Implement battery level update logic
+        System.out.println("Battery level set to: " + batteryLevel);
+    }
 
 }

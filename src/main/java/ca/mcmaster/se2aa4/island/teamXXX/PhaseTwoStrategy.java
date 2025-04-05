@@ -62,4 +62,5 @@ public class PhaseTwoStrategy implements DecisionStrategy {
         currentState.echo(drone.getDirection());
         return currentState.getDecision();
     }
+
 }

@@ -16,4 +16,3 @@ public class StrategyFactory{
         return strategies.get(phase);
     }
 }
-
